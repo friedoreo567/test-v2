@@ -1,4 +1,5 @@
-html
+body
 {
     background-image: url(./IMG_3456.png), url(./IMG_3457.png), url(./IMG_3458.png);
+    background-size: cover;
 }
