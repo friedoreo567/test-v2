@@ -1,5 +1,7 @@
 body
 {
+    width: 100vw;
+    height: 100vh;
     background-image: url(./IMG_3456.png), url(./IMG_3457.png), url(./IMG_3458.png);
     background-size: cover;
 }
