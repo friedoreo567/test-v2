@@ -1,7 +1,7 @@
 body
 {
-    width: 140vw;
-    height: 140vh;
+    width: 100vw;
+    height: 100vh;
     background-image: url(./IMG_3456.png);
     background-size: cover;
 }
