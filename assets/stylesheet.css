@@ -1,14 +1,12 @@
 html
 {
-    background-color: aqua;
+    background-color: cornflowerblue;
 }
 body
 {
     width: 90vw;
     background-color: orange;
-    background-repeat: no-repeat;
-    background-attachment: fixed; 
-    background-size: cover;
+    margin: auto;
 }
 
 p
