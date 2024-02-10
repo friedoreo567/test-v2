@@ -2,14 +2,10 @@ html
 {
     background-color: rgba(100, 149, 237, 0.4);
 }
-body
-{
-    max-width: 960px;
-    background-color: rgb(243, 203, 130);
-}
 .text
 {
     max-width: 800px;
+    background-color: rgb(243, 203, 130);
     margin: auto;
 }
 p
