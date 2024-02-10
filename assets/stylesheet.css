@@ -1,5 +1,11 @@
+html
+{
+    background-color: aqua;
+}
 body
 {
+    width: 90vw;
+    background-color: orange;
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: cover;
