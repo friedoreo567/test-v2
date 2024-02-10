@@ -4,6 +4,7 @@ html
 }
 body
 {
+    max-width: 960px;
     background-color: rgb(243, 203, 130);
 }
 .text
