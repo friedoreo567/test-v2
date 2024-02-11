@@ -23,6 +23,18 @@ body
     margin-left: auto;
     margin-right: auto;
 }
+.doubleimage
+{
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+.gallery::after
+{
+    content: "";
+    clear: both;
+    display: table;
+}
 .caption
 {
     max-width: 600px;
