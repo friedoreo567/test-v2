@@ -18,10 +18,10 @@ body
 .image
 {
     display: block;
-    padding: 40px;
+    width: 720px;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
-    height: auto;
 }
 .caption
 {
