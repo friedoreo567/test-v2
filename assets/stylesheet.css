@@ -4,7 +4,7 @@ html
 }
 body
 {
-    max-width: 960px;
+    width: 60vw;
     background-color: rgb(252, 236, 206);
 }
 .text
@@ -24,6 +24,8 @@ body
 }
 .caption
 {
-    max-width: 880px;
+    max-width: 600px;
     font-size: 12px;
+    padding: 40px;
+    margin: auto
 }
