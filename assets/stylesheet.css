@@ -12,7 +12,6 @@ body
 {
     max-width: 880px;
     font-size: 18px;
-    padding: 40px;
     margin: auto;
 }
 .image
@@ -27,6 +26,5 @@ body
 {
     max-width: 600px;
     font-size: 12px;
-    padding: 40px;
     margin: auto
 }
