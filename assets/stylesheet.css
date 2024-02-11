@@ -12,7 +12,8 @@ body
 {
     max-width: 880px;
     font-size: 18px;
-    margin: auto;
+    margin-left: auto; margin-right: auto;
+    margin-bottom: -1em;  margin-top: 0em;
 }
 .image
 {
@@ -25,5 +26,5 @@ body
 {
     max-width: 600px;
     font-size: 12px;
-    margin: auto
+    margin: auto;
 }
