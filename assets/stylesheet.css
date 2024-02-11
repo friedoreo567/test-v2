@@ -4,8 +4,9 @@ html
 }
 .text
 {
-    max-width: 800px;
+    max-width: 960px;
     background-color: rgb(252, 236, 206);
+    padding: 60px;
     margin: auto;
 }
 p
