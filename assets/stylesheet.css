@@ -6,10 +6,13 @@ html
 {
     max-width: 960px;
     background-color: rgb(252, 236, 206);
+    font-size: 18px;
     padding: 60px;
     margin: auto;
 }
-p
+.caption
 {
-    font-size: 18px;
+    max-width: 960px;
+    background-color: rgb(252, 236, 206);
+    font-size: 12px;
 }
