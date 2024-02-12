@@ -27,6 +27,11 @@ body
     margin-left: auto; margin-right: auto;
     margin-bottom: 0em;  margin-top: 0em;
 }
+.text em
+{
+    font-style: normal;
+    color: rgb(252, 236, 206);
+}
 .image
 {
     display: block;
